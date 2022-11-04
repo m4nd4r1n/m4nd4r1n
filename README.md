@@ -1,12 +1,16 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=250&fontSize=80&text=Welcome&desc=m4nd4r1n's%20GitHub&descAlign=60&descAlignY=55&fontAlignY=40&fontColor=ffffff)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fm4nd4r1n&count_bg=%23FFB54E&title_bg=%23A3A3A3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=250&fontSize=80&text=Welcome&desc=m4nd4r1n's%20GitHub&descAlign=60&descAlignY=55&fontAlignY=40&fontColor=ffffff&animation=twinkling)](https://github.com/kyechan99/capsule-render)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kara_mandarin)](https://solved.ac/kara_mandarin)
+프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=kara_mandarin)](https://solved.ac/kara_mandarin)
 
-![m4nd4r1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4nd4r1n&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd4r1n&layout=compact&bg_color=30,ffc900,ff7c00&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd4r1n&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+### I'm interested in...
+
+[![badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=white)](https://shields.io/)
+[![badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://shields.io/)
+[![badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://shields.io/)
+[![badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://shields.io/)
+[![badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://shields.io/)
+[![badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://shields.io/)
+[![badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://shields.io/)
