@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=kara_mandarin)](https://solved.ac/kara_mandarin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4nd4r1n&layout=compact&bg_color=30,ffc900,ff7c00&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-psi-smoky.vercel.app/api/top-langs/?username=m4nd4r1n&layout=compact&bg_color=30,ffc900,ff7c00&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm interested in...
 
