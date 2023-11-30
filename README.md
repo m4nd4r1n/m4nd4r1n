@@ -2,8 +2,8 @@
 
 Hi, I'm Do Hyeong. I'm interested in web front-end development.
 
-[![mail](https://img.shields.io/badge/Mail-FDC830?logo=gmail&logoColor=white&style=flat-square)](mailto:me@m4nd4r1n.dev)
-[![blog](https://img.shields.io/badge/Blog-FDC830?logo=vercel&logoColor=white&style=flat-square)](https://m4nd4r1n.dev)
+[![mail](https://img.shields.io/badge/Mail-FDC830?logo=gmail&logoColor=white&style=flat-square)](mailto:kdh@m4nd4r1n.me)
+[![blog](https://img.shields.io/badge/Blog-FDC830?logo=vercel&logoColor=white&style=flat-square)](https://blog.m4nd4r1n.me)
 
 ![hr](https://capsule-render.vercel.app/api?type=rect&color=0:FDC830,100:F37335&height=1)
 
