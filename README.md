@@ -9,7 +9,8 @@ Hi, I'm Do Hyeong. I'm interested in web front-end development.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="20" height="20" /> History
 
-- `2024.05 ~ ` **Frontend Developer Intern** - [Podonos](https://podonos.com/).
+- `2024.08 ~ ` **Frontend Developer** - [Podonos](https://podonos.com/).
+- `2024.05 ~ 2024.08` **Frontend Developer Intern** - [Podonos](https://podonos.com/).
 - `2022.08 ~ 2022.12` **boostcamp web·mobile 7th membership** - NAVER Connect Foundation.
 - `2022.07 ~ 2022.08` **boostcamp web·mobile 7th challenge** - NAVER Connect Foundation.
 - `2017.03 ~ 2023.02` **Bachelor of Science in Computer Engineering** - Kwangwoon Univ.
